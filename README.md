@@ -4,11 +4,6 @@
     <b>Welcome</b> my name is Victor! And this is my playground! That's where I try, create and mostly <b>break</b> things.
 </p>
 
-## Github Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Vico1993&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vico1993&layout=compact)
-
 ## Follow me
 
 <p align="center">
